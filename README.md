@@ -2,8 +2,7 @@ iOS-DragUpDownTableView
 =======================
 
 Inherit from UITableView and add drag up/down function to update table view.
-[![](https://github.com/winlin/iOS-DragUpDownTableView/blob/master/DragTable.png)](https://github.com/winlin/iOS-DragUpDownTableView/blob/master/DragTable.png)
-
+![](https://github.com/winlin/iOS-DragUpDownTableView/blob/master/DragTable.png)
 
 ## How To Use
 
